@@ -1,0 +1,10 @@
+*.autosave
+*.backup1
+*.backup2
+*.backup*
+*.uistate.xml
+Textures/
+Animations/
+Files/
+Build/
+Audio/
